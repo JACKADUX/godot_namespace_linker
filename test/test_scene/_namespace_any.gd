@@ -7,3 +7,5 @@ class SubNamespace:
 	const AlsoFoo = preload("res://test/test_scene/foo.gd")
 	const Bar = preload("res://test/test_scene/bar.gd")
 	
+static func create_foo_scene() -> Foo:
+	return FOO_SCENE.instantiate()
