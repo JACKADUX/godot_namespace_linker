@@ -1,5 +1,7 @@
 # godot_namespace_linker
- 
+
+![logo-01](https://github.com/user-attachments/assets/9342e86a-3597-433d-a0ec-1f4cda7b6512)
+
 This is a very simple godot plugin used to quickly jump to the corresponding script or scene file when using the custom NAMESPACE method.
 这是一个非常简单的godot 插件用于在使用自定义NAMESPACE方法时，快速跳转到对应的脚本或者场景文件。
 
