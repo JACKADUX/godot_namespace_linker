@@ -21,4 +21,4 @@ project/assembly_name="Namespace"
 
 [editor_plugins]
 
-enabled=PackedStringArray("res://addons/namespace/plugin.cfg")
+enabled=PackedStringArray("res://addons/namespace/plugin.cfg", "res://addons/namespace_linker/plugin.cfg")
